@@ -29,3 +29,18 @@ git push
 ```
 
 3. Que pasa cuando hay conflictos
+
+Significa que hay cambios en el repositorio remoto que no tengo en mi repositorio local.
+
+```bash
+error: failed to push some refs to 'https://github.com/Adalab/da-promo-47-lesson-git.git'
+``
+
+Solución:
+
+```bash
+
+git pull
+```
+
+
