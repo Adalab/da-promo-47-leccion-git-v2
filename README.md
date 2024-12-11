@@ -28,4 +28,4 @@ git commit -m "mensaje"
 git push
 ```
 
-3. 
+3. Que pasa cuando hay conflictos
